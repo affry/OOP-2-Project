@@ -3,4 +3,4 @@ Nama : Muhammad Affry
 Kelas : 5A
 
 Soltuline
-Data Layanan, Data Pelanggan, jumlah barang
+Data Layanan, Data Pelanggan, dan jumlah barang
