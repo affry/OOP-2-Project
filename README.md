@@ -4,3 +4,4 @@ Kelas : 5A
 
 Soltuline
 Data Layanan, Data Pelanggan, dan jumlah barang
+add delete, add update
